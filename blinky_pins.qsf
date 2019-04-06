@@ -1,0 +1,5 @@
+set_location_assignment PIN_W15 -to LED[0]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to LED[0]
+
+set_location_assignment PIN_AH17 -to KEY[0]
+set_instance_assignment -name IO_STANDARD "3.3-V LVTTL" -to KEY[0]
